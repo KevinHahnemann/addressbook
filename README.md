@@ -1,0 +1,1 @@
+you need to install smarty to the project
